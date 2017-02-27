@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera Nyoba</string>
+    <string name="api_url">http://192.168.43.79:8000/</string>
+</resources>
