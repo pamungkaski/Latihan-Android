@@ -14,6 +14,8 @@ import java.io.File;
 public class ImageRequest {
     private Bitmap image;
 
+    public ImageRequest(){}
+
     public Bitmap getImage() {
         return image;
     }
